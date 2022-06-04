@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="notValid">Format not Valid</string>
+    <string name="passwordValid">Password must be more than 6</string>
+    <string name="login">Login</string>
+    <string name="register">Create New Account</string>
+    <string name="title">Welcome to StoryApp</string>
+    <string name="permission_decline">Permission Decline</string>
+    <string name="home_title">Home</string>
+    <string name="add_story_title">Add Story</string>
+    <string name="settings_title">Settings</string>
+    <string name="image">Image</string>
+    <string name="detail">Detail</string>
+    <string name="description">This is Description</string>
+    <string name="uploading">Uploading...</string>
+    <string name="capture">take photo</string>
+    <string name="flip">flip camera</string>
+    <string name="failed_pick_image">Failed Picking Image</string>
+    <string name="failed_showing_camera">Failed Showing Camera</string>
+    <string name="language">Language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="logout">Log Out</string>
+    <string name="gallery">+</string>
+    <string name="camera">Camera</string>
+    <string name="add_story">Add Story</string>
+    <string name="maps">maps</string>
+    <string name="retry">retry</string>
+</resources>
